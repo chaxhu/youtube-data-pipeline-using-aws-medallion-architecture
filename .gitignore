@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw datasets (large Kaggle CSVs) - not tracked in git
+data/
+
+# Local infra notes (contains AWS account ID / ARNs)
+scripts/information.md
